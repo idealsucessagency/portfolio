@@ -11,7 +11,7 @@
     height: auto;
   }
 
-  home {
+  #home {
     background: none;
     background: linear-gradient(180deg, #6c5ce7, #7a69e4, #8f7ae5);
     }
